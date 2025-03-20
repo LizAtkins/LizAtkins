@@ -1,5 +1,5 @@
 **Hey there!**  
-I'm a **Front-End Web Developer** passionate about creating responsive and visually engaging websites.  
+I'm a **Web Developer** passionate about creating responsive and visually engaging websites.  
 
 **What I Do:**  
 🔹 Front-End Development   
