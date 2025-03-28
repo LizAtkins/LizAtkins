@@ -13,6 +13,7 @@ I'm a **Web Developer** passionate about creating responsive and visually engagi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizAtkins&layout=compact&theme=radical)
 
 **Latest Projects:**  
+🧙‍♀️ [Glinda CSS Drawing](https://github.com/LizAtkins/css-glinda) – This project is a CSS-based design of Glinda the Good Witch, inspired by Alvaro Montoro’s original CSS witch design.
 🎨 [CSS Palette Generator](https://github.com/LizAtkins/css-palette-generator) – A tool for generating beautiful color palettes using CSS.  
 📅 [Gaming Console Timeline](https://github.com/LizAtkins/gaming-console-timeline) – A simple timeline showcasing the history of gaming consoles.  
 
