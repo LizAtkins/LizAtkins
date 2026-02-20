@@ -20,7 +20,7 @@ I'm a **Frontend Developer** passionate about creating responsive and visually e
 
 **Contact Me:** <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2575fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizatkins/) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2575fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liz-atkins/) <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-6a11cb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lizatkins.github.io/liz-portfolio-2025/) <br>
 [![Email](https://img.shields.io/badge/Email-Send-9d4edd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atkinsannliz@gmail.com)
 <!--
